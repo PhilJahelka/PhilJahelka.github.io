@@ -20,4 +20,4 @@ Because
 
 I'm hosted with GitHub Pages!
 
-![Pikachu Under Construction](/docs/assets/images/pikachu construction.gif)
+![Pikachu Under Construction](/PhilJahelka.github.io/assets/images/pikachu construction.gif)

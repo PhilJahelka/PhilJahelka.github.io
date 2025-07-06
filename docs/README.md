@@ -20,4 +20,4 @@ Because
 
 I'm hosted with GitHub Pages!
 
-![90s under construction](/PhilJahelka.github.io/assets/images/pikachu-construction.gif)
+![90s under construction](/assets/images/pikachu-construction.gif)

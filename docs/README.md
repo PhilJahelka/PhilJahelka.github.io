@@ -20,4 +20,4 @@ Because
 
 I'm hosted with GitHub Pages!
 
-![90s under construction](/assets/images/pikachu-construction.gif)
+![90s under construction](https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif)

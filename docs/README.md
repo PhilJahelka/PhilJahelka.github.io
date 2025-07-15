@@ -19,4 +19,4 @@ Because Kathryn and Phil feel like throwing a big party to celebrate our relatio
 
 I'm hosted with GitHub Pages!
 
-[90s under construction](https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif)
+![90s under construction](https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif)

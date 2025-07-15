@@ -1,25 +1,22 @@
-<h1>
-Phil and Kathryn's Website!
-</h1>
+#Phil and Kathryn's Website!
 
-<h1>
-RSVP Info
-</h1>
+
+#RSVP Info
 [RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSdb4hoWW1RRWFUf0m6yEEGGmeJv6fUi9wsexoM-h6kjG1RO1Q/viewform?usp=header)
 
 
-<h3>Who:</h3>
+##Who:
 Family and friends of Phil Jahelka and Kathryn Plant.
-<h3>What:</h3>
+##What:
 Phil and Kathryn's Wedding
-<h3>When:</h3>
+##When:
 October 4th
-<h3>Where:</h3>
+##Where:
 Walker Creek Ranch Outside Petaluma, canvas
-<h3>Why:</h3>
-Because
+##Why:
+Because Kathryn and Phil feel like throwing a big party to celebrate our relationship.
 
 
 I'm hosted with GitHub Pages!
 
-![90s under construction](https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif)
+[90s under construction](https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif)

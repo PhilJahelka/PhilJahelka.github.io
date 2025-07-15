@@ -19,4 +19,4 @@ Because Kathryn and Phil feel like throwing a big party to celebrate our relatio
 
 I'm hosted with GitHub Pages!
 
-![90s under construction](docs/assets/images/pikachu-constuction.gif)
+![90s under construction](assets/images/pikachu-constuction.gif)

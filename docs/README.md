@@ -1,19 +1,19 @@
-#Phil and Kathryn's Website!
+# Phil and Kathryn's Website!
 
 
-#RSVP Info
+# RSVP Info
 [RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSdb4hoWW1RRWFUf0m6yEEGGmeJv6fUi9wsexoM-h6kjG1RO1Q/viewform?usp=header)
 
 
-##Who:
+## Who:
 Family and friends of Phil Jahelka and Kathryn Plant.
-##What:
+## What:
 Phil and Kathryn's Wedding
-##When:
+## When:
 October 4th
-##Where:
+## Where:
 Walker Creek Ranch Outside Petaluma, canvas
-##Why:
+## Why:
 Because Kathryn and Phil feel like throwing a big party to celebrate our relationship.
 
 

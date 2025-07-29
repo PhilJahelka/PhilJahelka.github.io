@@ -8,6 +8,20 @@
 
 [We'd also like to compile photos from the good times at Casita Calaveras](https://drive.google.com/drive/folders/1X58aDVo3VKQTLNU9pvx_qz4HXxf5xbIQ?usp=sharing)
 
+# Agenda
+
+## Friday
+Beach day hangout somewhere in Marin or SF with welcome dinner and campfire at the Ranch.
+
+## Saturday
+Hangout at the ranch including swimming, wiffle ball, and general amusement.
+Afternoon / Evening is ceremony, cocktail hour, Paella dinner, and dancing
+
+## Sunday
+Brunch and packing up
+
+# Overview
+
 ## Who:
 Family and friends of Phil Jahelka and Kathryn Plant.
 ## What:

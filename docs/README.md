@@ -33,6 +33,9 @@ Walker Creek Ranch Outside Petaluma, CA.
 ## Why:
 Because Kathryn and Phil feel like throwing a big party to celebrate our relationship.
 
+# Registry
+No gifts are expected, your presence is enough! [Here is a registry](https://www.williams-sonoma.com/registry/lt8wgntmqv/registry-list.html) since some people have asked.
+If you'd prefer to donate to our honeymoon fund, you can [Venmo Phil](https://account.venmo.com/u/Phillip-Jahelka)
 
 I'm hosted with GitHub Pages!
 

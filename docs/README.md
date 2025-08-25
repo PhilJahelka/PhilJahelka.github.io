@@ -33,6 +33,9 @@ Walker Creek Ranch Outside Petaluma, CA.
 ## Why:
 Because Kathryn and Phil feel like throwing a big party to celebrate our relationship.
 
+# Additional Info:
+Walker Creek Ranch as limited cell service, and getting an Uber may be impossible. They do have WiFi.
+
 # Registry
 No gifts are expected, your presence is enough! [Here is a registry](https://www.williams-sonoma.com/registry/lt8wgntmqv/registry-list.html) since some people have asked.
 

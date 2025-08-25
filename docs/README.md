@@ -37,9 +37,10 @@ Because Kathryn and Phil feel like throwing a big party to celebrate our relatio
 Walker Creek Ranch as limited cell service, and getting an Uber may be impossible. They do have WiFi.
 
 # Registry
-No gifts are expected, your presence is enough! [Here is a registry](https://www.williams-sonoma.com/registry/lt8wgntmqv/registry-list.html) since some people have asked.
-
-If you'd prefer to donate to our honeymoon fund, you can Venmo Phil (@Phillip-Jahelka).
+No gifts are expected, your presence is enough! However, since some folks have asked about it, if you'd like to gift us something, registry links are below.
+* [Kitchen Gear](https://www.williams-sonoma.com/registry/lt8wgntmqv/registry-list.html)
+* [Books](https://bookshop.org/wishlists/efdc484b9d6b44745d9da3d9f28e843d47450618)
+* If you'd prefer to donate to our honeymoon fund, you can Venmo Phil (@Phillip-Jahelka).
 
 
 I'm hosted with GitHub Pages!

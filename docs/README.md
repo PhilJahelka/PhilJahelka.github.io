@@ -15,10 +15,10 @@ Hydrate or diedrate. There will be lots of outdoor fun so bring a water bottle a
 
 ## Friday
 ### Arrival at Walker Creek
-People can show up at 1pm and rooms should be open by 2. There is not a formal check-in process. 
+People can show up at 1pm and rooms should be open by 2. There is not a formal check-in process. The WiFi password is: Wireless!
 
 ### Beach Details
-The beach is [Dillon Beach](https://maps.app.goo.gl/bKMWqBuhHTdom12Q8) on the north side of Tomales Bay. Parking lot is $15/car with maybe street parking in the nearby town. We will supply coolers of some seltzer and water, sunscreen, and some games. Kathryn and Phil will aim to be there from 2-4 pm. In early October it can be warm and calm or cool and windy so be sure to check the weather before and plan appropriately.
+The beach is [Dillon Beach](https://maps.app.goo.gl/bKMWqBuhHTdom12Q8) on the north side of Tomales Bay. Parking lot is $15/car with maybe street parking in the nearby town. We will supply coolers of some seltzer and water, light snacks, sunscreen, and some games. Kathryn and Phil will aim to be there from 2-4 pm. In early October it can be warm and calm or cool and windy so be sure to check the weather before and plan appropriately.
 
 ### Welcome Dinner
 Dinner will be served at (TBD), followed by a campfire and s'mores. Phil and Kathryn should show up by 8:30 for hanging out. We will provide s'more fixings. 

@@ -8,14 +8,32 @@
 
 [We'd also like to compile photos from the good times at Casita Calaveras](https://drive.google.com/drive/folders/1X58aDVo3VKQTLNU9pvx_qz4HXxf5xbIQ?usp=sharing)
 
+# Theme
+Hydrate or diedrate. There will be lots of outdoor fun so bring a water bottle and sunscreen. Also, there is limited cell-service in rural Marin, so get your maps figured out in town first.
+
 # Agenda
 
 ## Friday
-Beach day hangout somewhere in Marin or SF with welcome dinner and campfire at the Ranch.
+### Arrival at Walker Creek
+People can show up at 1pm and rooms should be open by 2. There is not a formal check-in process. 
+
+### Beach Details
+The beach is [Dillon Beach](https://maps.app.goo.gl/bKMWqBuhHTdom12Q8) on the north side of Tomales Bay. Parking lot is $15/car with maybe street parking in the nearby town. We will supply coolers of some seltzer and water, sunscreen, and some games. Kathryn and Phil will aim to be there from 2-4 pm. In early October it can be warm and calm or cool and windy so be sure to check the weather before and plan appropriately.
+
+### Welcome Dinner
+Dinner will be served at (TBD), followed by a campfire and s'mores. Phil and Kathryn should show up by 8:30 for hanging out. We will provide s'more fixings. 
 
 ## Saturday
 Hangout at the ranch including swimming, wiffle ball, and general amusement.
 Afternoon / Evening is ceremony, cocktail hour, Paella dinner, and dancing
+
+### Wedding Timeline
+ * 4:00: Ceremony starts, sharp
+ * 4:30: Cocktail hour
+ * 6:00: Begin Dinner
+ * 8:00: Dancing in the barn. Music provided by the ten-piece Jay Middleton Party Band.
+ * Pie cutting will be at the first musician break
+ * There is not curfew and the barn has a sound system for after the musician go home
 
 ## Sunday
 Brunch and packing up
@@ -34,7 +52,11 @@ Walker Creek Ranch Outside Petaluma, CA.
 Because Kathryn and Phil feel like throwing a big party to celebrate our relationship.
 
 # Additional Info:
-Walker Creek Ranch as limited cell service, and getting an Uber may be impossible. They do have WiFi.
+Walker Creek Ranch as limited cell service, and getting an Uber may be impossible. They do have WiFi, password is 
+
+# WCR Map
+
+![WCR Map](assets/images/wcr_map_custom.png)
 
 # Registry
 No gifts are expected, your presence is enough! However, since some folks have asked about it, if you'd like to gift us something, registry links are below.
@@ -44,5 +66,8 @@ No gifts are expected, your presence is enough! However, since some folks have a
 
 
 I'm hosted with GitHub Pages!
+
+# TODO
+housing assignments
 
 ![90s under construction](assets/images/pikachu-constuction.gif)

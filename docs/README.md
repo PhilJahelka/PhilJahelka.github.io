@@ -26,10 +26,10 @@ Dinner will be served at (TBD), followed by a campfire and s'mores. Phil and Kat
 ### Room Assignments
 As of 9/1 we've been able to accomodate first-choices. See map below for guidance.
 
-[Buckeye Lodge](assets/images/buckeye_lodge.pdf)
-[Cypress Lodge](assets/images/cypress_lodge.pdf)
-[Teacher's Lodge](assets/images/teacher's_lodge.pdf)
-[Willow Lodge](assets/images/willow_lodge.pdf)
+* ![Buckeye Lodge](assets/images/buckeye_lodge.png)
+* ![Cypress Lodge](assets/images/cypress_lodge.png)
+* ![Teacher's Lodge](assets/images/teacher's_lodge.png)
+* ![Willow Lodge](assets/images/willow_lodge.png)
 
 #### Bunkhouse
 Ellis, Leah, James, Joe, Kayla

@@ -24,11 +24,11 @@ The beach is [Dillon Beach](https://maps.app.goo.gl/bKMWqBuhHTdom12Q8) on the no
 Dinner will be served at (TBD), followed by a campfire and s'mores. Phil and Kathryn should show up by 8:30 for hanging out. We will provide s'more fixings. 
 
 ### Room Assignments
-As of 9/1 we've been able to accomodate first-choices. See map below for guidance.
+As of 9/1 we've been able to accomodate first-choices. See map below for guidance. Feel free to move around.
 
 * ![Buckeye Lodge](assets/images/buckeye_lodge.png)
 * ![Cypress Lodge](assets/images/cypress_lodge.png)
-* ![Teacher's Lodge](assets/images/teacher's_lodge.png)
+* ![Teacher's Lodge](assets/images/teachers_lodge.png)
 * ![Willow Lodge](assets/images/willow_lodge.png)
 
 #### Bunkhouse

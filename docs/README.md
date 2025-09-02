@@ -37,7 +37,7 @@ Ellis, Leah, James, Joe, Kayla
 Totally up for grabs except Badger/Otter and Coyote/Fox
 
 #### Camping
-Madzilla, Siobhan, Dillon
+Madzilla, Dillon
 
 Wherever, but reccomend around horsetail meadow.
 

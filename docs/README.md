@@ -9,7 +9,7 @@
 [We'd also like to compile photos from the good times at Casita Calaveras](https://drive.google.com/drive/folders/1X58aDVo3VKQTLNU9pvx_qz4HXxf5xbIQ?usp=sharing)
 
 # Theme
-Hydrate or diedrate. There will be lots of outdoor fun so bring a water bottle and sunscreen. Also, there is limited cell-service in rural Marin, so get your maps figured out in town first.
+Hydrate or diedrate. There will be lots of outdoor fun so bring a water bottle and sunscreen. Also, there is limited cell-service in rural Marin County, so get your maps figured out in town first.
 
 # Agenda
 
@@ -22,6 +22,24 @@ The beach is [Dillon Beach](https://maps.app.goo.gl/bKMWqBuhHTdom12Q8) on the no
 
 ### Welcome Dinner
 Dinner will be served at (TBD), followed by a campfire and s'mores. Phil and Kathryn should show up by 8:30 for hanging out. We will provide s'more fixings. 
+
+### Room Assignments
+As of 9/1 we've been able to accomodate first-choices. See map below for guidance.
+
+* [Buckeye Lodge](assets/images/Buckeye Lodge.pdf)
+* [Cypress Lodge](assets/images/Cypress Lodge.pdf)
+* [Teacher's Lodge](assets/images/Teacher's lodge.pdf)
+* [Willow Lodge](assets/images/Willow Lodge.pdf)
+
+#### Bunkhouse
+Ellis, Leah, James, Joe, Kayla
+
+Totally up for grabs except Badger/Otter and Coyote/Fox
+
+#### Camping
+Madzilla, Siobhan, Dillon
+
+Wherever, but reccomend around horsetail meadow.
 
 ## Saturday
 Hangout at the ranch including swimming, wiffle ball, and general amusement.

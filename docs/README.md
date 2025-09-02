@@ -86,6 +86,5 @@ No gifts are expected, your presence is enough! However, since some folks have a
 I'm hosted with GitHub Pages!
 
 # TODO
-housing assignments
 
 ![90s under construction](assets/images/pikachu-constuction.gif)

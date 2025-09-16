@@ -12,7 +12,7 @@
 Hydrate or diedrate. There will be lots of outdoor fun so bring a water bottle and sunscreen. Also, there is limited cell-service in rural Marin County, so get your maps figured out in town first.
 
 ## Dress Code
-Clean and comfortable. The ceremony seating is outdoor wooden benches and the dance is in an old barn, so absolutely nothing you'd be sad about snagging.
+Festive casual. The ceremony seating is outdoor wooden benches and the dance is in an old barn, so absolutely nothing you'd be sad about snagging.
 
 # Agenda
 

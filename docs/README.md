@@ -18,7 +18,7 @@ Festive casual. The ceremony seating is outdoor wooden benches and the dance is 
 
 ## Friday
 ### Arrival at Walker Creek
-People can show up at 1pm and rooms should be open by 2. There is not a formal check-in process. The WiFi password is: Wireless!. Walker Creak meal times are 8AM, Noon, and 6PM.
+People can show up at ~~1pm~~ 2pm and rooms should be open by ~~2~~4pm. There is not a formal check-in process. The WiFi password is: Wireless!. Walker Creak meal times are 8AM, Noon, and 6PM.
 
 ### Beach Details
 The beach is [Dillon Beach](https://maps.app.goo.gl/bKMWqBuhHTdom12Q8) on the north side of Tomales Bay. Parking lot is $15/car with maybe street parking in the nearby town. We will supply coolers of some seltzer and water, light snacks, sunscreen, and some games. Kathryn and Phil will aim to be there from 2-4 pm. In early October it can be warm and calm or cool and windy so be sure to check the weather before and plan appropriately.
@@ -35,9 +35,10 @@ As of 9/1 we've been able to accomodate first-choices. See map below for guidanc
 * ![Willow Lodge](assets/images/willow_lodge.png)
 
 #### Bunkhouse
-Ellis, Leah, James, Joe, Kayla
+Ellis, Leah, James, Joe, Kayla, John, Andrew
 
-Totally up for grabs except Badger/Otter and Coyote/Fox
+~~Totally up for grabs except Badger/Otter and Coyote/Fox~~
+Eagle/Hawk/Owl
 
 #### Camping
 Madzilla, Dillon

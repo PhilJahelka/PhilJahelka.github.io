@@ -40,7 +40,8 @@ As of 9/1 we've been able to accomodate first-choices. See map below for guidanc
 Ellis, Leah, James, Joe, Kayla, John, Andrew
 
 ~~Totally up for grabs except Badger/Otter and Coyote/Fox~~
-Start at Bobcat, then branch to Hawk/Eagle/Owl, then other cabins if y'all still need more room.
+
+Start at Bobcat, then branch to Hawk/Eagle/Owl, then other cabins if y'all still need more room. John and Leah, your linens will be located near the entrance of Bobcat.
 
 #### Camping
 Madzilla, Dillon

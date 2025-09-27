@@ -40,7 +40,7 @@ As of 9/1 we've been able to accomodate first-choices. See map below for guidanc
 Ellis, Leah, James, Joe, Kayla, John, Andrew
 
 ~~Totally up for grabs except Badger/Otter and Coyote/Fox~~
-Eagle/Hawk/Owl
+Start at Bobcat, then branch to Hawk/Eagle/Owl, then other cabins if y'all still need more room.
 
 #### Camping
 Madzilla, Dillon
@@ -60,7 +60,8 @@ Afternoon / Evening is ceremony, cocktail hour, Paella dinner, and dancing
  * There is not curfew and the barn has a sound system for after the musician go home
 
 ## Sunday
-Brunch and packing up
+Brunch and packing up.
+Breakfast is at 9, out of rooms by 10, and off-property by noon.
 
 # Overview
 

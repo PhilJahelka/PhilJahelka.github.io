@@ -78,8 +78,7 @@ Walker Creek Ranch Outside Petaluma, CA.
 Because Kathryn and Phil feel like throwing a big party to celebrate our relationship.
 
 # Additional Info:
-Walker Creek Ranch as limited cell service, and getting an Uber may be impossible. They do have WiFi, password is 
-
+Walker Creek Ranch as limited cell service, and getting an Uber may be impossible. They do have WiFi, password is: Wireless! .
 # WCR Map
 
 ![WCR Map](assets/images/wcr_map_custom.png)
